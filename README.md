@@ -1,3 +1,2 @@
-# advanced-06-09-1hf
-newRepository for Jlsfkgisldf:q
-ndjv 9, 2015 Advanced Training
+# advanced-06-09-15
+Repository for June 9, 2015 Advanced Training
